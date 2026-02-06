@@ -1,4 +1,3 @@
-# Prodigy-Infotech-DS-Task-5
 # US Traffic Accident Analysis (Exploratory Data Analysis in Jupyter Notebook)
 
 This Jupyter Notebook project explores a large dataset of US traffic accidents with the goal of identifying patterns, high-risk areas, and visualizing trends over time and geography.
